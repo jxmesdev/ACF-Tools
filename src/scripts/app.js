@@ -214,16 +214,11 @@ function copyFieldCode() {
 			thisField
 				.closest(".acf-field-object")
 				.children(".settings")
-				.children(".acf-table")
+				.children(".acf-field-editor")
 				.children(".acf-field-settings")
-				.children(".acf-field-setting-sub_fields")
-				.children(".acf-input")
-				.children(".acf-field-list-wrap")
-				.children(".acf-field-list")
-				.children(".acf-field-object")
-				.children(".handle")
 				.find(".copy-field-code.exclude-sub-fields")
 				.each(function() {
+					console.log('inside each');
 				var thisField = $(this),
 					fieldName = getFieldName(thisField),
 					typeOfField = getTypeOfField(thisField),
