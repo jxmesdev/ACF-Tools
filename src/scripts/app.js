@@ -218,7 +218,6 @@ function copyFieldCode() {
 				.children(".acf-field-settings")
 				.find(".copy-field-code.exclude-sub-fields")
 				.each(function() {
-					console.log('inside each');
 				var thisField = $(this),
 					fieldName = getFieldName(thisField),
 					typeOfField = getTypeOfField(thisField),

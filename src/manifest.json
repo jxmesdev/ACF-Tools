@@ -1,7 +1,7 @@
 {
 	"manifest_version": 3,
-	"name": "ACF Tools",
-	"version": "3.1.0",
+	"name": "ACF Tools With Subfields",
+	"version": "1.0.0",
 	"description": "__MSG_extDescription__",
 	"default_locale": "en",
 	"icons": {
@@ -10,7 +10,6 @@
 		"128": "icons/icon128.png"
 	},
 	"permissions": [
-		"activeTab",
 		"storage"
 	],
 	"action": {

@@ -1,6 +1,6 @@
 {
     "extDescription": {
-        "message": "Advanced Custom Fields code made simple! 🙌"
+        "message": "Advanced Custom Fields code, with support for copy sub fields"
     },
     "copyFieldName": {
         "message": "Copy field name to clipboard"
@@ -30,7 +30,7 @@
         "message": "Copied code with sub fields to clipboard!"
     },
     "fieldError": {
-        "message": "Unsupported field, submit an issue on: https://github.com/RostiMelk/ACF-Tools/issues"
+        "message": "Unsupported field, submit an issue on: https://github.com/jxmesdev/ACF-Tools/issues"
     },
     "clickToCopyCode": {
         "message": "Click to copy code."
