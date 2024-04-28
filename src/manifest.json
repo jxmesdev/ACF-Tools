@@ -1,7 +1,7 @@
 {
 	"manifest_version": 3,
-	"name": "ACF Tools With Subfields",
-	"version": "1.0.0",
+	"name": "ACF Tools (With Fix for Copy Sub Fields)",
+	"version": "4.0.0",
 	"description": "__MSG_extDescription__",
 	"default_locale": "en",
 	"icons": {

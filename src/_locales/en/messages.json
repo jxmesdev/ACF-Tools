@@ -1,6 +1,6 @@
 {
     "extDescription": {
-        "message": "Advanced Custom Fields code, with support for copy sub fields"
+        "message": "Original ACF tools, but with a fix for copy sub fields. Original project seems abandoned and has broke after ACF update."
     },
     "copyFieldName": {
         "message": "Copy field name to clipboard"
